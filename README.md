@@ -16,7 +16,7 @@ The application demonstrates best practices in Go development, including:
 - **Api Calls**: Fetches data from the PokéAPI
 - **Caching System**: Implements a custom cache with automatic expiration (reaping) to minimize API calls
 - **Concurrency**: Uses goroutines and mutexes for thread-safe operations
-- **Terminal Input**: Supports both text commands and arrow key navigation
+- **Terminal Input**: Supports both text commands.
 - **Clean Architecture**: Organized package structure with separation of concerns
 
 **Key Features**:
